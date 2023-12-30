@@ -27,12 +27,9 @@
             <div class="l_title">
               <img src="img/icon/title-icon.png" alt>
               <h6>Discover the features</h6>
-              <h2>We don’t hide, we stand tall in front of chalenge</h2>
+              <h2>We don’t hide, we stand tall in front of challenge</h2>
             </div>
-            <p>Etiam nec odio vestibulum est mattis effic iturut magna. Pellentesque sit am et tellus blandit. Etiam nec
-              odio vestibul.Cras ex mauris, ornare eget pretium sit amet, dignissim et turpis. Nunc nec maximus dui, vel
-              suscipit dolor. Donec elementum velit a orci facilisis rutrum. Nam convallis vel erat id dictum. Sed ut
-              risus in orci convallis viverra a eget nisi. Aenean pellentesque elit vitae eros dignissim ultrices. </p>
+            <p>At Bluenix, we don't just build websites, we engineer digital experiences that leave lasting impressions. As architects of the web, we combine innovation, expertise, and a passion for perfection to redefine the boundaries of online possibilities. </p>
             <div class="c_video">
               <a class="popup-youtube" href="https://www.youtube.com/watch?v=62QYQE6k7tg"><img
                   src="img/icon/video-icon.png" alt>See how we work </a>
@@ -55,15 +52,14 @@
         <div class="item">
           <div class="testi_item">
             <h3>“Simply professionals”</h3>
-            <p>Etiam nec odio vestibulum est mattis effic iturut magna. Pellentesque sit am et tellus blandit. Etiam nec
-              odio vestibul. Etiam nec odio vestibulum est mattis effic iturut magna. Pellentesque sit am et tellus.</p>
+            <p>Beyond web development, we're here to connect. Your dreams and goals become ours, and together, we embark on a collaborative journey to bring them to fruition. Join us at Bluenix, where passion meets proficiency, and where your digital aspirations are not just understood but genuinely loved.</p>
             <div class="media">
               <div class="d-flex">
-                <img class="rounded-circle" src="img/testimonials/testi-1.jpg" alt>
+                <img class="rounded-circle" src="img/testimonials/user-1.png" alt>
               </div>
               <div class="media-body">
-                <h4>Maria Smith</h4>
-                <h5>CEO Enterprise</h5>
+                <h4>Nausher Khan</h4>
+                <h5>Co-founder & CEO</h5>
               </div>
             </div>
           </div>
@@ -71,15 +67,14 @@
         <div class="item">
           <div class="testi_item">
             <h3>“They are the best”</h3>
-            <p>Etiam nec odio vestibulum est mattis effic iturut magna. Pellentesque sit am et tellus blandit. Etiam nec
-              odio vestibul. Etiam nec odio vestibulum est mattis effic iturut magna. Pellentesque sit am et tellus.</p>
+            <p>It's not just about functionality; it's about creating experiences that leave a lasting impression. Your success is our success, and we thrive on the joy of seeing your ideas come to life in the digital realm.</p>
             <div class="media">
               <div class="d-flex">
-                <img class="rounded-circle" src="img/testimonials/testi-2.jpg" alt>
+                <img class="rounded-circle" src="img/testimonials/user-2.png" alt>
               </div>
               <div class="media-body">
-                <h4>Chriss Turner</h4>
-                <h5>CEO Enterprise</h5>
+                <h4>Shahnawaz Ahmad</h4>
+                <h5>CTO</h5>
               </div>
             </div>
           </div>
@@ -87,31 +82,14 @@
         <div class="item">
           <div class="testi_item">
             <h3>“We just love them”</h3>
-            <p>Etiam nec odio vestibulum est mattis effic iturut magna. Pellentesque sit am et tellus blandit. Etiam nec
-              odio vestibul. Etiam nec odio vestibulum est mattis effic iturut magna. Pellentesque sit am et tellus.</p>
+            <p>Our clients aren't just clients; they're partners in a journey toward digital brilliance. We cherish the relationships we build and are committed to creating web solutions that you'll not only be proud of but absolutely love.</p>
             <div class="media">
               <div class="d-flex">
-                <img class="rounded-circle" src="img/testimonials/testi-3.jpg" alt>
+                <img class="rounded-circle" src="img/testimonials/user-3.png" alt>
               </div>
               <div class="media-body">
-                <h4>Julie Smart</h4>
-                <h5>CEO Enterprise</h5>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="item">
-          <div class="testi_item">
-            <h3>“Simply professionals”</h3>
-            <p>Etiam nec odio vestibulum est mattis effic iturut magna. Pellentesque sit am et tellus blandit. Etiam nec
-              odio vestibul. Etiam nec odio vestibulum est mattis effic iturut magna. Pellentesque sit am et tellus.</p>
-            <div class="media">
-              <div class="d-flex">
-                <img class="rounded-circle" src="img/testimonials/testi-1.jpg" alt>
-              </div>
-              <div class="media-body">
-                <h4>Maria Smith</h4>
-                <h5>CEO Enterprise</h5>
+                <h4>Huzaifa Khan</h4>
+                <h5>Marketing Manager</h5>
               </div>
             </div>
           </div>
@@ -131,10 +109,7 @@
               <h6>Discover the features</h6>
               <h2>We are a <span>Gibraltar</span> based Company</h2>
             </div>
-            <p>Etiam nec odio vestibulum est mattis effic iturut magna. Pellentesque sit am et tellus blandit. Etiam nec
-              odio vestibul.Cras ex mauris, ornare eget pretium sit amet, dignissim et turpis. Nunc nec maximus dui, vel
-              suscipit dolor. Donec elementum velit a orci facilisis rutrum. Nam convallis vel erat id dictum. Sed ut
-              risus in orci convallis viverra a eget nisi. Aenean pellentesque elit vitae eros dignissim ultrices. </p>
+            <p>Based in this vibrant, historic locale, we infuse every line of code with the spirit of Gibraltar. Our love for the craft and dedication to excellence echo the resilience and strength embodied by the Rock itself. While our roots are firmly planted in Gibraltar, our vision extends globally. We're not just developers; we're bridge builders, connecting your brand to the world through innovative web solutions. Embark on a digital journey with Bluenix, where the spirit of Gibraltar meets the boundless possibilities of the web. Let's build something extraordinary together. </p>
           </div>
         </div>
         <div class="col-lg-6">

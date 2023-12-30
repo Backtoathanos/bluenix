@@ -224,9 +224,8 @@
                                                         <img src="img/icon/f-icon-1.png" alt>
                                                 </div>
                                                 <h4>Brand Identity</h4>
-                                                <p>Etiam nec odio vestibulum est mattis effic iturut magna. Pellentesque
-                                                        sit am et tellus blandit. Etiam nec odio vestibul. </p>
-                                                <a class="more_btn" href="#">Read More</a>
+                                                <p>Developing a strong brand identity is essential for any business, including a web development company. Your brand identity is the visual and conceptual representation of your company's personality, values, and mission. It's what sets you apart and creates a lasting impression on clients. </p>
+                                                <!-- <a class="more_btn" href="#">Read More</a> -->
                                         </div>
                                 </div>
                                 <div class="col-lg-4 col-sm-6">
@@ -235,9 +234,8 @@
                                                         <img src="img/icon/f-icon-2.png" alt>
                                                 </div>
                                                 <h4>Online Marketing</h4>
-                                                <p>Etiam nec odio vestibulum est mattis effic iturut magna. Pellentesque
-                                                        sit am et tellus blandit. Etiam nec odio vestibul. </p>
-                                                <a class="more_btn" href="#">Read More</a>
+                                                <p>Online marketing, also known as digital marketing, is a crucial aspect of promoting your web development services and reaching a wider audience in the digital realm.</p>
+                                                <!-- <a class="more_btn" href="#">Read More</a> -->
                                         </div>
                                 </div>
                                 <div class="col-lg-4 col-sm-6">
@@ -246,9 +244,8 @@
                                                         <img src="img/icon/f-icon-3.png" alt>
                                                 </div>
                                                 <h4>Social Media</h4>
-                                                <p>Etiam nec odio vestibulum est mattis effic iturut magna. Pellentesque
-                                                        sit am et tellus blandit. Etiam nec odio vestibul. </p>
-                                                <a class="more_btn" href="#">Read More</a>
+                                                <p>Social media is a powerful tool for promoting your web development services, building brand awareness, and engaging with your audience. </p>
+                                                <!-- <a class="more_btn" href="#">Read More</a> -->
                                         </div>
                                 </div>
                         </div>
@@ -261,40 +258,34 @@
                         <div class="shap_slider_inner owl-carousel">
                                 <div class="item">
                                         <h4>“They are the best”</h4>
-                                        <p>Etiam nec odio vestibulum est mattis effic iturut magna. Pellentesque sit am
-                                                et tellus blandit. Etiam nec odio vestibul. Etiam nec odio vestibulum
-                                                est mattis effic iturut magna. Pellentesque sit am et tellus.</p>
+                                        <p>It's not just about functionality; it's about creating experiences that leave a lasting impression. Your success is our success, and we thrive on the joy of seeing your ideas come to life in the digital realm.</p>
                                         <div class="media">
                                                 <img src="img/team/people/people-5.jpg" alt>
                                                 <div class="media-body">
-                                                        <h5>Chriss Turner</h5>
-                                                        <h6>CEO Enterprise</h6>
+                                                        <h4>Nausher Khan</h4>
+                                                        <h5>Co-founder & CEO</h5>
                                                 </div>
                                         </div>
                                 </div>
                                 <div class="item">
                                         <h4>“They are the best”</h4>
-                                        <p>Etiam nec odio vestibulum est mattis effic iturut magna. Pellentesque sit am
-                                                et tellus blandit. Etiam nec odio vestibul. Etiam nec odio vestibulum
-                                                est mattis effic iturut magna. Pellentesque sit am et tellus.</p>
+                                        <p>It's not just about functionality; it's about creating experiences that leave a lasting impression. Your success is our success, and we thrive on the joy of seeing your ideas come to life in the digital realm.</p>
                                         <div class="media">
                                                 <img src="img/team/people/people-5.jpg" alt>
                                                 <div class="media-body">
-                                                        <h5>Chriss Turner</h5>
-                                                        <h6>CEO Enterprise</h6>
+                                                        <h4>Huzaifa Khan</h4>
+                                                        <h5>Marketing Manager</h5>
                                                 </div>
                                         </div>
                                 </div>
                                 <div class="item">
                                         <h4>“They are the best”</h4>
-                                        <p>Etiam nec odio vestibulum est mattis effic iturut magna. Pellentesque sit am
-                                                et tellus blandit. Etiam nec odio vestibul. Etiam nec odio vestibulum
-                                                est mattis effic iturut magna. Pellentesque sit am et tellus.</p>
+                                        <p>It's not just about functionality; it's about creating experiences that leave a lasting impression. Your success is our success, and we thrive on the joy of seeing your ideas come to life in the digital realm.</p>
                                         <div class="media">
                                                 <img src="img/team/people/people-5.jpg" alt>
                                                 <div class="media-body">
-                                                        <h5>Chriss Turner</h5>
-                                                        <h6>CEO Enterprise</h6>
+                                                        <h4>Shahnawaz Ahmad</h4>
+                                                        <h5>CTO</h5>
                                                 </div>
                                         </div>
                                 </div>
@@ -308,12 +299,7 @@
                                                 <h6>Discover the features</h6>
                                                 <h2>We don’t hide, we stand tall in front of chalenge</h2>
                                         </div>
-                                        <p>Etiam nec odio vestibulum est mattis effic iturut magna. Pellentesque sit am
-                                                et tellus blandit. Etiam nec odio vestibul.Cras ex mauris, ornare eget
-                                                pretium sit amet, dignissim et turpis. Nunc nec maximus dui, vel
-                                                suscipit dolor. Donec elementum velit a orci facilisis rutrum. Nam
-                                                convallis vel erat id dictum. Sed ut risus in orci convallis viverra a
-                                                eget nisi. Aenean pellentesque elit vitae eros dignissim ultrices. </p>
+                                        <p>At Bluenix, we don't just build websites, we engineer digital experiences that leave lasting impressions. As architects of the web, we combine innovation, expertise, and a passion for perfection to redefine the boundaries of online possibilities. </p>
                                 </div>
                                 <div class="shap_mobile">
                                         <img src="img/iphone4.png" alt>
@@ -333,16 +319,13 @@
                                                         <h6>Discover the features</h6>
                                                         <h2>We build a strong team of great people</h2>
                                                 </div>
-                                                <p>Cras ex mauris, ornare eget pretium sit amet, dignissim et turpis.
-                                                        Nunc nec maximus dui, vel suscipit dolor. Donec elementum velit
-                                                        a orci facilisis rutrum. Nam convallis vel erat id dictum. Sed
-                                                        ut risus in orci convallis viverra.</p>
+                                                <p>A web development journey with us is a journey with a team of exceptional individuals. Each member brings a unique set of skills, creativity, and passion to the table, forming the backbone of our success.</p>
                                                 <ul>
-                                                        <li><a href="#">Nunc nec maximus dui, </a></li>
-                                                        <li><a href="#">Aenean pellentesque elit vitae</a></li>
-                                                        <li><a href="#">Aenean pellentesque elit vitae</a></li>
-                                                        <li><a href="#">Ex mauris, ornare eget pretium </a></li>
-                                                        <li><a href="#">Cras ex mauris, ornare eget preti</a></li>
+                                                        <li><a href="javascript:void(0)">Our Greatest Asset: The Team</a></li>
+                                                        <li><a href="javascript:void(0)">Innovation Meets Expertise</a></li>
+                                                        <li><a href="javascript:void(0)">Teamwork Makes the Dream Work</a></li>
+                                                        <li><a href="javascript:void(0)">Exceptional Individuals</a></li>
+                                                        <li><a href="javascript:void(0)">Extraordinary Results</a></li>
                                                 </ul>
                                         </div>
                                 </div>
@@ -412,9 +395,7 @@
                                                         <h6>Say hello</h6>
                                                         <h2>Get in touch, send us an e-mail or call us</h2>
                                                 </div>
-                                                <p>Cras ex mauris, ornare eget pretium sit amet, dignissim et turpis.
-                                                        Nunc nec maximus dui, vel suscipit dolor. Donec elementum velit
-                                                        a orci facilisis rutrum.</p>
+                                                <p>Whether you have a project in mind, questions about our services, or just want to say hello, we're eager to hear from you. Reach out to us, and let's start a conversation that leads to digital excellence.</p>
                                                 <a href="#">
                                                         <h5>Call us now</h5>
                                                 </a>

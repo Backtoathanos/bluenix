@@ -6,7 +6,7 @@
           <div class="col-lg-4 col-sm-6">
             <aside class="f_widget f_about_widget">
               <img src="img/footer-logo.png" alt>
-              <p>Cras ex mauris, ornare eget pretium sit amet, dignissim et turpis. Nunc nec maximus dui, vel suscipit dolor. Donec elementum velit a orci facilisis rutrum.</p>
+              <p>At Bluenix, we don't just build websites, we engineer digital experiences that leave lasting impressions. As architects of the web, we combine innovation, expertise, and a passion for perfection to redefine the boundaries of online possibilities.</p>
             </aside>
           </div>
           <div class="col-lg-4 col-sm-6">

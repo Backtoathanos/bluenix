@@ -28,8 +28,7 @@
               <img src="img/icon/f-icon-1.png" alt>
             </div>
             <h4>Brand Identity</h4>
-            <p>Etiam nec odio vestibulum est mattis effic iturut magna. Pellentesque sit am et tellus blandit. Etiam nec
-              odio vestibul. </p>
+            <p>Developing a strong brand identity is essential for any business, including a web development company. Your brand identity is the visual and conceptual...</p>
             <a class="more_btn" href="#">Read More</a>
           </div>
         </div>
@@ -39,8 +38,7 @@
               <img src="img/icon/f-icon-2.png" alt>
             </div>
             <h4>Online Marketing</h4>
-            <p>Etiam nec odio vestibulum est mattis effic iturut magna. Pellentesque sit am et tellus blandit. Etiam nec
-              odio vestibul. </p>
+            <p>Online marketing, also known as digital marketing, is a crucial aspect of promoting your web development services and reaching a wider audience in the digital...</p>
             <a class="more_btn" href="#">Read More</a>
           </div>
         </div>
@@ -50,8 +48,7 @@
               <img src="img/icon/f-icon-3.png" alt>
             </div>
             <h4>Social Media</h4>
-            <p>Etiam nec odio vestibulum est mattis effic iturut magna. Pellentesque sit am et tellus blandit. Etiam nec
-              odio vestibul. </p>
+            <p>Social media is a powerful tool for promoting your web development services, building brand awareness, and engaging with your audience. </p>
             <a class="more_btn" href="#">Read More</a>
           </div>
         </div>

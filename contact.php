@@ -49,8 +49,7 @@
               <h6>Say hello</h6>
               <h2>Get in touch, send us an e-mail or call us</h2>
             </div>
-            <p>Cras ex mauris, ornare eget pretium sit amet, dignissim et turpis. Nunc nec maximus dui, vel suscipit
-              dolor. Donec elementum velit a orci facilisis rutrum.</p>
+            <p>Whether you have a project in mind, questions about our services, or just want to say hello, we're eager to hear from you. Reach out to us, and let's start a conversation that leads to digital excellence.</p>
             <a href="tel:+917209581823">
               <h5>Call us now</h5>
             </a>
