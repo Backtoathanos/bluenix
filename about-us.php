@@ -192,7 +192,7 @@
     <div class="container">
       <div class="talk_text">
         <h4>Are you ready to talk?</h4>
-        <a href="mailto:info@bluenix.in"><span
+        <a href="mailto:info@bluenix.in?subject=[Help]%20For Business Consult&cc=nausher.khan12@gmail.com;"><span
             class="__cf_email__"
             data-cfemail="4e2d21203a2f2d3a0e3d272b3c3c2f2d21233e2f2037602d2123">info@bluenix.in</span></a>
       </div>

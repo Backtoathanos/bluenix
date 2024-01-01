@@ -416,7 +416,7 @@
                                 <div class="bd-callout">
                                         <h3>Bluenix Office</h3>
                                         <p>Jamshedpur, Jharkhand <br /> India</p>
-                                        <h4><a href="#">+91 720 958 1823</a> <a href="#"><span class="__cf_email__"
+                                        <h4><a href="mailto:info@bluenix.in?subject=[Help]%20For Business Consult&cc=nausher.khan12@gmail.com;">+91 720 958 1823</a> <a href="#"><span class="__cf_email__"
                                                                 data-cfemail="37545859435654437743525a475b5643521954585a">info@bluenix.in</span></a>
                                         </h4>
                                 </div>
