@@ -12,7 +12,7 @@
         if($title=="home"){
             $title="Home";
         }else if($title=="aboutus"){
-            $title="Aboutus";
+            $title="About us";
         }else if($title=="services"){
             $title="Services";
         }else if($title=="portfolio"){

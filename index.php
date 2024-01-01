@@ -259,35 +259,35 @@
                                 <div class="item">
                                         <h4>“They are the best”</h4>
                                         <p>It's not just about functionality; it's about creating experiences that leave a lasting impression. Your success is our success, and we thrive on the joy of seeing your ideas come to life in the digital realm.</p>
-                                        <div class="media">
+                                        <!-- <div class="media">
                                                 <img src="img/team/people/people-5.jpg" alt>
                                                 <div class="media-body">
                                                         <h4>Nausher Khan</h4>
                                                         <h5>Co-founder & CEO</h5>
                                                 </div>
-                                        </div>
+                                        </div> -->
                                 </div>
                                 <div class="item">
                                         <h4>“They are the best”</h4>
                                         <p>It's not just about functionality; it's about creating experiences that leave a lasting impression. Your success is our success, and we thrive on the joy of seeing your ideas come to life in the digital realm.</p>
-                                        <div class="media">
+                                        <!-- <div class="media">
                                                 <img src="img/team/people/people-5.jpg" alt>
                                                 <div class="media-body">
                                                         <h4>Huzaifa Khan</h4>
                                                         <h5>Marketing Manager</h5>
                                                 </div>
-                                        </div>
+                                        </div> -->
                                 </div>
                                 <div class="item">
                                         <h4>“They are the best”</h4>
                                         <p>It's not just about functionality; it's about creating experiences that leave a lasting impression. Your success is our success, and we thrive on the joy of seeing your ideas come to life in the digital realm.</p>
-                                        <div class="media">
+                                        <!-- <div class="media">
                                                 <img src="img/team/people/people-5.jpg" alt>
                                                 <div class="media-body">
                                                         <h4>Shahnawaz Ahmad</h4>
                                                         <h5>CTO</h5>
                                                 </div>
-                                        </div>
+                                        </div> -->
                                 </div>
                         </div>
                 </div>

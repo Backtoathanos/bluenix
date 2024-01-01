@@ -23,6 +23,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-9">
+                    <div class="blog_text"> 
+                        <h4>Coming soon</h4>
+                    </div>
+                </div>
+            </div>
+            <!-- <div class="row">
+                <div class="col-lg-9">
                     <div class="blog_main_inner">
                         <div class="blog_main_item">
                             <div class="blog_img">
@@ -179,7 +186,7 @@
                     <li class="page-item"><a class="page-link" href="#">03.</a></li>
                     <li class="page-item"><a class="page-link" href="#">04.</a></li>
                 </ul>
-            </nav>
+            </nav> -->
         </div>
     </section>
 

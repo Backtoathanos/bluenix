@@ -53,7 +53,7 @@
           <div class="testi_item">
             <h3>“Simply professionals”</h3>
             <p>Beyond web development, we're here to connect. Your dreams and goals become ours, and together, we embark on a collaborative journey to bring them to fruition. Join us at Bluenix, where passion meets proficiency, and where your digital aspirations are not just understood but genuinely loved.</p>
-            <div class="media">
+            <!-- <div class="media">
               <div class="d-flex">
                 <img class="rounded-circle" src="img/testimonials/user-1.png" alt>
               </div>
@@ -61,14 +61,14 @@
                 <h4>Nausher Khan</h4>
                 <h5>Co-founder & CEO</h5>
               </div>
-            </div>
+            </div> -->
           </div>
         </div>
         <div class="item">
           <div class="testi_item">
             <h3>“They are the best”</h3>
             <p>It's not just about functionality; it's about creating experiences that leave a lasting impression. Your success is our success, and we thrive on the joy of seeing your ideas come to life in the digital realm.</p>
-            <div class="media">
+            <!-- <div class="media">
               <div class="d-flex">
                 <img class="rounded-circle" src="img/testimonials/user-2.png" alt>
               </div>
@@ -76,14 +76,14 @@
                 <h4>Shahnawaz Ahmad</h4>
                 <h5>CTO</h5>
               </div>
-            </div>
+            </div> -->
           </div>
         </div>
         <div class="item">
           <div class="testi_item">
             <h3>“We just love them”</h3>
             <p>Our clients aren't just clients; they're partners in a journey toward digital brilliance. We cherish the relationships we build and are committed to creating web solutions that you'll not only be proud of but absolutely love.</p>
-            <div class="media">
+            <!-- <div class="media">
               <div class="d-flex">
                 <img class="rounded-circle" src="img/testimonials/user-3.png" alt>
               </div>
@@ -91,7 +91,7 @@
                 <h4>Huzaifa Khan</h4>
                 <h5>Marketing Manager</h5>
               </div>
-            </div>
+            </div> -->
           </div>
         </div>
       </div>
@@ -114,11 +114,10 @@
         </div>
         <div class="col-lg-6">
           <div class="company_skill">
-            <p>Etiam nec odio vestibulum est mattis effic iturut magna. Pellente sque sit am et tellus blandit. Etiam
-              nec odio vestibul.</p>
+            <p>Building a successful website requires a combination of technical skills, creativity, and a deep understanding of user experience.</p>
             <div class="our_skill_inner">
               <div class="single_skill">
-                <h3>Development</h3>
+                <h3>Web Design</h3>
                 <div class="progress" data-value="70">
                   <div class="progress-bar">
                     <div class="progress_parcent"><span class="counter">70</span>%</div>
@@ -126,7 +125,7 @@
                 </div>
               </div>
               <div class="single_skill">
-                <h3>Design</h3>
+                <h3>Front-End Development</h3>
                 <div class="progress" data-value="90">
                   <div class="progress-bar">
                     <div class="progress_parcent"><span class="counter">90</span>%</div>
@@ -134,7 +133,7 @@
                 </div>
               </div>
               <div class="single_skill">
-                <h3>SEO</h3>
+                <h3>Responsive Design</h3>
                 <div class="progress" data-value="85">
                   <div class="progress-bar">
                     <div class="progress_parcent"><span class="counter">85</span>%</div>
@@ -142,18 +141,42 @@
                 </div>
               </div>
               <div class="single_skill">
-                <h3>Development</h3>
+                <h3>Back-End Development</h3>
                 <div class="progress" data-value="90">
                   <div class="progress-bar">
-                    <div class="progress_parcent"><span class="counter">90</span>%</div>
+                    <div class="progress_parcent"><span class="counter">95</span>%</div>
                   </div>
                 </div>
               </div>
               <div class="single_skill">
-                <h3>Management</h3>
+                <h3>Database Management</h3>
+                <div class="progress" data-value="90">
+                  <div class="progress-bar">
+                    <div class="progress_parcent"><span class="counter">95</span>%</div>
+                  </div>
+                </div>
+              </div>
+              <div class="single_skill">
+                <h3>Content Management Systems (CMS)</h3>
+                <div class="progress" data-value="60">
+                  <div class="progress-bar">
+                    <div class="progress_parcent"><span class="counter">60</span>%</div>
+                  </div>
+                </div>
+              </div>
+              <div class="single_skill">
+                <h3>SEO</h3>
                 <div class="progress" data-value="75">
                   <div class="progress-bar">
                     <div class="progress_parcent"><span class="counter">75</span>%</div>
+                  </div>
+                </div>
+              </div>
+              <div class="single_skill">
+                <h3>Project Management</h3>
+                <div class="progress" data-value="99">
+                  <div class="progress-bar">
+                    <div class="progress_parcent"><span class="counter">99</span>%</div>
                   </div>
                 </div>
               </div>
@@ -169,9 +192,9 @@
     <div class="container">
       <div class="talk_text">
         <h4>Are you ready to talk?</h4>
-        <a href="/cdn-cgi/l/email-protection#c3a0acadb7a2a0b783b0aaa6b1b1a2a0acaeb3a2adbaeda0acae"><span
+        <a href="mailto:info@bluenix.in"><span
             class="__cf_email__"
-            data-cfemail="4e2d21203a2f2d3a0e3d272b3c3c2f2d21233e2f2037602d2123">[email&#160;protected]</span></a>
+            data-cfemail="4e2d21203a2f2d3a0e3d272b3c3c2f2d21233e2f2037602d2123">info@bluenix.in</span></a>
       </div>
     </div>
   </section>
