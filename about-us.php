@@ -29,7 +29,7 @@
               <h6>Discover the features</h6>
               <h2>We don’t hide, we stand tall in front of challenge</h2>
             </div>
-            <p>At Bluenix, we don't just build websites, we engineer digital experiences that leave lasting impressions. As architects of the web, we combine innovation, expertise, and a passion for perfection to redefine the boundaries of online possibilities. </p>
+            <p>Welcome to <b>Bluenix</b>, <i>where innovation meets excellence</i> in Web Development, Search Engine Optimization, and Social Media Management. We create websites that are not just visually striking but also functional, turning your online presence into an engaging experience. Our team of skilled developers and designers harness the power of cutting-edge technology to bring your vision to life.</p>
             <div class="c_video">
               <a class="popup-youtube" href="https://www.youtube.com/watch?v=62QYQE6k7tg"><img
                   src="img/icon/video-icon.png" alt>See how we work </a>
