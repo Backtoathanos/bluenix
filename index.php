@@ -32,7 +32,7 @@
                                                         data-responsive_offset="on"
                                                         data-frames="[{&quot;delay&quot;:10,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]"
                                                         data-textAlign="['left','left','left','left','left','center']">
-                                                        Choose a powerful <br />design for your Start-up</div>
+                                                        Choose a compelling <br />design for your Start-up</div>
                                                 <div class="tp-caption tp-resizeme secand_text"
                                                         data-x="['left','left','left','left','15','center']"
                                                         data-hoffset="['0','80','80','0']"
@@ -97,7 +97,7 @@
                                                         data-responsive_offset="on"
                                                         data-frames="[{&quot;delay&quot;:10,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]"
                                                         data-textAlign="['left','left','left','left','left','center']">
-                                                        Choose a powerful <br />design for your Start-up</div>
+                                                        Choose a compelling <br />design for your Start-up</div>
                                                 <div class="tp-caption tp-resizeme secand_text"
                                                         data-x="['left','left','left','left','15','center']"
                                                         data-hoffset="['0','80','80','0']"
@@ -162,7 +162,7 @@
                                                         data-responsive_offset="on"
                                                         data-frames="[{&quot;delay&quot;:10,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]"
                                                         data-textAlign="['left','left','left','left','left','center']">
-                                                        Choose a powerful <br />design for your Start-up</div>
+                                                        Choose a compelling <br />design for your Start-up</div>
                                                 <div class="tp-caption tp-resizeme secand_text"
                                                         data-x="['left','left','left','left','15','center']"
                                                         data-hoffset="['0','80','80','0']"
@@ -215,7 +215,7 @@
                         <div class="c_title">
                                 <img src="img/icon/title-icon.png" alt>
                                 <h6>Discover the features</h6>
-                                <h2>We are young but bold</h2>
+                                <h2>Although we are young, nevertheless, we are fearless.</h2>
                         </div>
                         <div class="row feature_inner">
                                 <div class="col-lg-4 col-sm-6">
@@ -223,8 +223,8 @@
                                                 <div class="f_icon">
                                                         <img src="img/icon/f-icon-1.png" alt>
                                                 </div>
-                                                <h4>Brand Identity</h4>
-                                                <p>Developing a strong brand identity is essential for any business, including a web development company. Your brand identity is the visual and conceptual representation of your company's personality, values, and mission. It's what sets you apart and creates a lasting impression on clients. </p>
+                                                <h4>CMS-Based Web Design</h4>
+                                                <p>A content management system, or CMS for short, is a piece of software that lets users to create and maintain websites without requiring them to know how to code at all or start from scratch. Create, manage, edit, and publish material using an intuitive interface using a content management system (CMS).</p>
                                                 <!-- <a class="more_btn" href="#">Read More</a> -->
                                         </div>
                                 </div>
@@ -233,8 +233,8 @@
                                                 <div class="f_icon">
                                                         <img src="img/icon/f-icon-2.png" alt>
                                                 </div>
-                                                <h4>Online Marketing</h4>
-                                                <p>Online marketing, also known as digital marketing, is a crucial aspect of promoting your web development services and reaching a wider audience in the digital realm.</p>
+                                                <h4>Search Engine Optimization</h4>
+                                                <p>SEO stands for Search Engine Optimisation, and it is the act of optimising a website's technical setup, content relevancy, and link popularity so that its pages become easily findable, relevant, and popular in response to user search queries, and so rank higher in search engines.</p>
                                                 <!-- <a class="more_btn" href="#">Read More</a> -->
                                         </div>
                                 </div>
@@ -243,8 +243,8 @@
                                                 <div class="f_icon">
                                                         <img src="img/icon/f-icon-3.png" alt>
                                                 </div>
-                                                <h4>Social Media</h4>
-                                                <p>Social media is a powerful tool for promoting your web development services, building brand awareness, and engaging with your audience. </p>
+                                                <h4>Social Media Management</h4>
+                                                <p>The advantages of social media management extend well beyond increasing brand exposure and staying current with the latest online trends. Building more intimate relationships with target consumers at scale requires a strong channel strategy. Social media relationship  may increase brand affiliation, trust, and most importantly, loyalty.</p>
                                                 <!-- <a class="more_btn" href="#">Read More</a> -->
                                         </div>
                                 </div>
@@ -297,7 +297,7 @@
                                         <div class="l_title">
                                                 <img src="img/icon/title-icon.png" alt>
                                                 <h6>Discover the features</h6>
-                                                <h2>We don’t hide, we stand tall in front of chalenge</h2>
+                                                <h2>We don't hide; we stand strong before the challenge</h2>
                                         </div>
                                         <p>At Bluenix, we don't just build websites, we engineer digital experiences that leave lasting impressions. As architects of the web, we combine innovation, expertise, and a passion for perfection to redefine the boundaries of online possibilities. </p>
                                 </div>
@@ -319,7 +319,7 @@
                                                         <h6>Discover the features</h6>
                                                         <h2>We build a strong team of great people</h2>
                                                 </div>
-                                                <p>A web development journey with us is a journey with a team of exceptional individuals. Each member brings a unique set of skills, creativity, and passion to the table, forming the backbone of our success.</p>
+                                                <p>A web development adventure with us is an adventure with a group of remarkable people. Our success is based on the diverse skill sets, creativity, and enthusiasm that each person brings to the table.</p>
                                                 <ul>
                                                         <li><a href="javascript:void(0)">Our Greatest Asset: The Team</a></li>
                                                         <li><a href="javascript:void(0)">Innovation Meets Expertise</a></li>
