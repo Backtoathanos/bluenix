@@ -47,9 +47,9 @@
             <div class="l_title">
               <img src="img/icon/title-icon.png" alt>
               <h6>Say hello</h6>
-              <h2>Get in touch, send us an e-mail or call us</h2>
+              <h2>Reach out to us via phone or e-mail</h2>
             </div>
-            <p>Whether you have a project in mind, questions about our services, or just want to say hello, we're eager to hear from you. Reach out to us, and let's start a conversation that leads to digital excellence.</p>
+            <p>We would be happy to hear from you, whether you have inquiries about our services, a project in mind, or you simply want to say hi. Please get in contact with us so that we may begin a conversation that will lead to digital greatness.</p>
             <a href="tel:+917209581823">
               <h5>Call us now</h5>
             </a>

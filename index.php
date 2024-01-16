@@ -45,7 +45,7 @@
                                                         data-responsive_offset="on" data-transform_idle="o:1;"
                                                         data-frames="[{&quot;delay&quot;:10,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:[100%];s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]"
                                                         data-textAlign="['left','left','left','left','left','center']">
-                                                        Get your freebie template now!
+                                                        <!-- Get your freebie template now! -->
                                                 </div>
                                                 <div class="tp-caption tp-resizeme"
                                                         data-x="['left','left','left','left','15','center']"
@@ -57,7 +57,7 @@
                                                         data-height="none" data-whitespace="nowrap" data-type="text"
                                                         data-responsive_offset="on"
                                                         data-frames="[{&quot;delay&quot;:10,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:[100%];s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]">
-                                                        <a class="more_btn" href="#">Discover</a>
+                                                        <!-- <a class="more_btn" href="#">Discover</a> -->
                                                 </div>
                                                 <div class="tp-caption tp-resizeme single_img"
                                                         data-x="['right','right','right','right','right','right']"
@@ -110,7 +110,7 @@
                                                         data-responsive_offset="on" data-transform_idle="o:1;"
                                                         data-frames="[{&quot;delay&quot;:10,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:[100%];s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]"
                                                         data-textAlign="['left','left','left','left','left','center']">
-                                                        Get your freebie template now!
+                                                        <!-- Get your freebie template now! -->
                                                 </div>
                                                 <div class="tp-caption tp-resizeme"
                                                         data-x="['left','left','left','left','15','center']"
@@ -122,7 +122,7 @@
                                                         data-height="none" data-whitespace="nowrap" data-type="text"
                                                         data-responsive_offset="on"
                                                         data-frames="[{&quot;delay&quot;:10,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:[100%];s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]">
-                                                        <a class="more_btn" href="#">Discover</a>
+                                                        <!-- <a class="more_btn" href="#">Discover</a> -->
                                                 </div>
                                                 <div class="tp-caption tp-resizeme single_img"
                                                         data-x="['right','right','right','right','right','right']"
@@ -175,7 +175,7 @@
                                                         data-responsive_offset="on" data-transform_idle="o:1;"
                                                         data-frames="[{&quot;delay&quot;:10,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:[100%];s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]"
                                                         data-textAlign="['left','left','left','left','left','center']">
-                                                        Get your freebie template now!
+                                                        <!-- Get your freebie template now! -->
                                                 </div>
                                                 <div class="tp-caption tp-resizeme"
                                                         data-x="['left','left','left','left','15','center']"
@@ -187,7 +187,7 @@
                                                         data-height="none" data-whitespace="nowrap" data-type="text"
                                                         data-responsive_offset="on"
                                                         data-frames="[{&quot;delay&quot;:10,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:[100%];s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]">
-                                                        <a class="more_btn" href="#">Discover</a>
+                                                        <!-- <a class="more_btn" href="#">Discover</a> -->
                                                 </div>
                                                 <div class="tp-caption tp-resizeme single_img"
                                                         data-x="['right','right','right','right','right','right']"
@@ -214,7 +214,7 @@
                 <div class="container">
                         <div class="c_title">
                                 <img src="img/icon/title-icon.png" alt>
-                                <h6>Discover the features</h6>
+                                <h6>Services We Provide</h6>
                                 <h2>Although we are young, nevertheless, we are fearless.</h2>
                         </div>
                         <div class="row feature_inner">
@@ -244,7 +244,7 @@
                                                         <img src="img/icon/f-icon-3.png" alt>
                                                 </div>
                                                 <h4>Social Media Management</h4>
-                                                <p>The advantages of social media management extend well beyond increasing brand exposure and staying current with the latest online trends. Building more intimate relationships with target consumers at scale requires a strong channel strategy. Social media relationship  may increase brand affiliation, trust, and most importantly, loyalty.</p>
+                                                <p>The advantages of social media management extend well beyond increasing brand exposure and staying current with the latest online trends. Building more intimate relationships with target consumers at scale requires a strong channel strategy. Social media relationship  may increase brand affiliation, trust, and loyalty.</p>
                                                 <!-- <a class="more_btn" href="#">Read More</a> -->
                                         </div>
                                 </div>
@@ -296,10 +296,10 @@
                                 <div class="text_3d">
                                         <div class="l_title">
                                                 <img src="img/icon/title-icon.png" alt>
-                                                <h6>Discover the features</h6>
+                                                <h6>About Us</h6>
                                                 <h2>We don't hide; we stand strong before the challenge</h2>
                                         </div>
-                                        <p>At Bluenix, we don't just build websites, we engineer digital experiences that leave lasting impressions. As architects of the web, we combine innovation, expertise, and a passion for perfection to redefine the boundaries of online possibilities. </p>
+                                        <p>Welcome to <b>Bluenix</b>, <i>where innovation meets excellence</i> in Web Development, Search Engine Optimization, and Social Media Management. We create websites that are not just visually striking but also functional, turning your online presence into an engaging experience. Our team of skilled developers and designers harness the power of cutting-edge technology to bring your vision to life.</p>
                                 </div>
                                 <div class="shap_mobile">
                                         <img src="img/iphone4.png" alt>
@@ -393,9 +393,9 @@
                                                 <div class="l_title">
                                                         <img src="img/icon/title-icon.png" alt>
                                                         <h6>Say hello</h6>
-                                                        <h2>Get in touch, send us an e-mail or call us</h2>
+                                                        <h2>Reach out to us via phone or e-mail</h2>
                                                 </div>
-                                                <p>Whether you have a project in mind, questions about our services, or just want to say hello, we're eager to hear from you. Reach out to us, and let's start a conversation that leads to digital excellence.</p>
+                                                <p>We would be happy to hear from you, whether you have inquiries about our services, a project in mind, or you simply want to say hi. Please get in contact with us so that we may begin a conversation that will lead to digital greatness.</p>
                                                 <a href="#">
                                                         <h5>Call us now</h5>
                                                 </a>
