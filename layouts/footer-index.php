@@ -6,13 +6,13 @@
           <div class="col-lg-4 col-sm-6">
             <aside class="f_widget f_about_widget">
               <img src="img/footer-logo.png" alt>
-              <p>At Bluenix, we don't just build websites, we engineer digital experiences that leave lasting impressions. As architects of the web, we combine innovation, expertise, and a passion for perfection to redefine the boundaries of online possibilities.</p>
+              <p>Welcome to <b>Bluenix</b>, <i>where innovation meets excellence</i> in Web Development, Search Engine Optimization, and Social Media Management. We create websites that are not just visually striking but also functional, turning your online presence into an engaging experience. Our team of skilled developers and designers harness the power of cutting-edge technology to bring your vision to life.</p>
             </aside>
           </div>
           <div class="col-lg-4 col-sm-6">
             <aside class="f_widget f_insta_widget">
               <div class="f_title">
-                <h3>Instagram</h3>
+                <h3>Feeds</h3>
               </div>
               <ul>
                 <li><a href="#"><img src="img/instagram/ins-1.jpg" alt></a></li>

@@ -12,7 +12,7 @@
           <div class="col-lg-4 col-sm-6">
             <aside class="f_widget f_insta_widget">
               <div class="f_title">
-                <h3>Instagram</h3>
+                <h3>Feeds</h3>
               </div>
               <ul>
                 <li><a href="#"><img src="img/instagram/ins-1.jpg" alt></a></li>

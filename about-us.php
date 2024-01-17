@@ -30,10 +30,10 @@
               <h2>We don’t hide, we stand tall in front of challenge</h2>
             </div>
             <p>Welcome to <b>Bluenix</b>, <i>where innovation meets excellence</i> in Web Development, Search Engine Optimization, and Social Media Management. We create websites that are not just visually striking but also functional, turning your online presence into an engaging experience. Our team of skilled developers and designers harness the power of cutting-edge technology to bring your vision to life.</p>
-            <div class="c_video">
+            <!-- <div class="c_video">
               <a class="popup-youtube" href="https://www.youtube.com/watch?v=62QYQE6k7tg"><img
                   src="img/icon/video-icon.png" alt>See how we work </a>
-            </div>
+            </div> -->
           </div>
         </div>
         <div class="col-lg-6 challange_img">
@@ -66,8 +66,8 @@
         </div>
         <div class="item">
           <div class="testi_item">
-            <h3>“They are the best”</h3>
-            <p>It's not just about functionality; it's about creating experiences that leave a lasting impression. Your success is our success, and we thrive on the joy of seeing your ideas come to life in the digital realm.</p>
+            <h3>We are the best”</h3>
+            <p>It's not just about functionality; it's about creating experiences that leave a lasting impression. Your success is our success, and we thrive on the joy of seeing your ideas come to life in the digital world.</p>
             <!-- <div class="media">
               <div class="d-flex">
                 <img class="rounded-circle" src="img/testimonials/user-2.png" alt>
@@ -106,10 +106,10 @@
           <div class="left_company_text">
             <div class="l_title">
               <img src="img/icon/title-icon.png" alt>
-              <h6>Discover the features</h6>
-              <h2>We are a <span>Gibraltar</span> based Company</h2>
+              <h6>Get to know us better</h6>  
+              <h2> Your <span> all-in-one platform </span> for comprehensive digital solutions </h2>
             </div>
-            <p>Based in this vibrant, historic locale, we infuse every line of code with the spirit of Gibraltar. Our love for the craft and dedication to excellence echo the resilience and strength embodied by the Rock itself. While our roots are firmly planted in Gibraltar, our vision extends globally. We're not just developers; we're bridge builders, connecting your brand to the world through innovative web solutions. Embark on a digital journey with Bluenix, where the spirit of Gibraltar meets the boundless possibilities of the web. Let's build something extraordinary together. </p>
+            <p>Welcome to a digital world where innovation meets excellence! At our core, we are the architects of your online success. From captivating web designs that leave a lasting impression to seamless front-end development that engages users, we embark on a journey to redefine your digital presence. Our expertise extends beyond aesthetics – we specialize in responsive design, ensuring your website adapts flawlessly to every device, delivering a consistent and immersive user experience. On the backend, our developers craft robust solutions, supported by efficient database management, creating a foundation that stands the test of time. But we are not just digital artisans; we are strategic navigators in the vast landscape of the web. Our SEO wizards work tirelessly to elevate your visibility, ensuring your brand emerges prominently in search results. Harnessing the power of Content Management Systems (CMS), we empower you to take control, effortlessly managing and updating your content to stay relevant and dynamic. Our skilled team of social media managers turns your brand into a dynamic online presence. We create communities that share the values of your brand by engaging with your audience and creating compelling stories.</p>
           </div>
         </div>
         <div class="col-lg-6">
@@ -157,7 +157,7 @@
                 </div>
               </div>
               <div class="single_skill">
-                <h3>Content Management Systems (CMS)</h3>
+                <h3>SEO</h3>
                 <div class="progress" data-value="60">
                   <div class="progress-bar">
                     <div class="progress_parcent"><span class="counter">60</span>%</div>
@@ -165,7 +165,7 @@
                 </div>
               </div>
               <div class="single_skill">
-                <h3>SEO</h3>
+                <h3>Content Management Systems (CMS)</h3>
                 <div class="progress" data-value="75">
                   <div class="progress-bar">
                     <div class="progress_parcent"><span class="counter">75</span>%</div>
@@ -173,10 +173,18 @@
                 </div>
               </div>
               <div class="single_skill">
-                <h3>Project Management</h3>
+                <h3>Social Media Management</h3>
                 <div class="progress" data-value="99">
                   <div class="progress-bar">
                     <div class="progress_parcent"><span class="counter">99</span>%</div>
+                  </div>
+                </div>
+              </div>
+              <div class="single_skill">
+                <h3>Printing and Branding</h3>
+                <div class="progress" data-value="65">
+                  <div class="progress-bar">
+                    <div class="progress_parcent"><span class="counter">65</span>%</div>
                   </div>
                 </div>
               </div>
@@ -191,7 +199,7 @@
   <section class="talk_area">
     <div class="container">
       <div class="talk_text">
-        <h4>Are you ready to talk?</h4>
+        <h4>Are you willing to talk?</h4>
         <a href="mailto:info@bluenix.in?subject=[Help]%20For Business Consult&cc=nausher.khan12@gmail.com;"><span
             class="__cf_email__"
             data-cfemail="4e2d21203a2f2d3a0e3d272b3c3c2f2d21233e2f2037602d2123">info@bluenix.in</span></a>

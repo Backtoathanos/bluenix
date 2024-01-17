@@ -257,8 +257,8 @@
                 <div class="left_3d">
                         <div class="shap_slider_inner owl-carousel">
                                 <div class="item">
-                                        <h4>“They are the best”</h4>
-                                        <p>It's not just about functionality; it's about creating experiences that leave a lasting impression. Your success is our success, and we thrive on the joy of seeing your ideas come to life in the digital realm.</p>
+                                        <h4>“We are the best”</h4>
+                                        <p>It's not just about functionality; it's about creating experiences that leave a lasting impression. Your success is our success, and we thrive on the joy of seeing your ideas come to life in the digital world.</p>
                                         <!-- <div class="media">
                                                 <img src="img/team/people/people-5.jpg" alt>
                                                 <div class="media-body">
@@ -268,8 +268,8 @@
                                         </div> -->
                                 </div>
                                 <div class="item">
-                                        <h4>“They are the best”</h4>
-                                        <p>It's not just about functionality; it's about creating experiences that leave a lasting impression. Your success is our success, and we thrive on the joy of seeing your ideas come to life in the digital realm.</p>
+                                        <h4>We are the best”</h4>
+                                        <p>It's not just about functionality; it's about creating experiences that leave a lasting impression. Your success is our success, and we thrive on the joy of seeing your ideas come to life in the digital world.</p>
                                         <!-- <div class="media">
                                                 <img src="img/team/people/people-5.jpg" alt>
                                                 <div class="media-body">

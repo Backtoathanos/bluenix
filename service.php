@@ -13,7 +13,7 @@
     <div class="container">
       <div class="banner_inner_text">
         <h2>Services</h2>
-        <p>See what we do best</p>
+        <p>Check out what we do best</p>
       </div>
     </div>
   </section>
@@ -27,9 +27,9 @@
             <div class="f_icon">
               <img src="img/icon/f-icon-1.png" alt>
             </div>
-            <h4>Brand Identity</h4>
-            <p>Developing a strong brand identity is essential for any business, including a web development company. Your brand identity is the visual and conceptual...</p>
-            <a class="more_btn" href="javascript:void(0)">Read More</a>
+            <h4>CMS-Based Web Design</h4>
+            <p>A content management system, or CMS for short, is a piece of software that lets users to create and maintain websites without requiring them to know how to code at all or start from scratch. Create, manage, edit, and publish material using an intuitive interface using a content management system (CMS).</p>
+            <!-- <a class="more_btn" href="javascript:void(0)">Read More</a> -->
           </div>
         </div>
         <div class="col-lg-4 col-sm-6">
@@ -37,9 +37,9 @@
             <div class="f_icon">
               <img src="img/icon/f-icon-2.png" alt>
             </div>
-            <h4>Online Marketing</h4>
-            <p>Online marketing, also known as digital marketing, is a crucial aspect of promoting your web development services and reaching a wider audience in the digital...</p>
-            <a class="more_btn" href="javascript:void(0)">Read More</a>
+            <h4>Search Engine Optimization</h4>
+            <p>SEO stands for Search Engine Optimisation, and it is the act of optimising a website's technical setup, content relevancy, and link popularity so that its pages become easily findable, relevant, and popular in response to user search queries, and so rank higher in search engines.</p>
+            <!-- <a class="more_btn" href="javascript:void(0)">Read More</a> -->
           </div>
         </div>
         <div class="col-lg-4 col-sm-6">
@@ -47,9 +47,9 @@
             <div class="f_icon">
               <img src="img/icon/f-icon-3.png" alt>
             </div>
-            <h4>Social Media</h4>
-            <p>Social media is a powerful tool for promoting your web development services, building brand awareness, and engaging with your audience. </p>
-            <a class="more_btn" href="javascript:void(0)">Read More</a>
+            <h4>Social Media Management</h4>
+            <p>The advantages of social media management extend well beyond increasing brand exposure and staying current with the latest online trends. Building more intimate relationships with target consumers at scale requires a strong channel strategy. Social media relationship may increase brand affiliation, trust, and most importantly, loyalty.</p>
+            <!-- <a class="more_btn" href="javascript:void(0)">Read More</a> -->
           </div>
         </div>
         <div class="col-lg-4 col-sm-6">
@@ -57,22 +57,22 @@
             <div class="f_icon">
               <img src="img/icon/f-icon-4.png" alt>
             </div>
-            <h4>Video Support</h4>
-            <p>Creating a video to showcase your web development services on your website can be a powerful way to engage visitors and convey your company's message. </p>
-            <a class="more_btn" href="javascript:void(0)">Read More</a>
+            <h4>Printing and Branding</h4>
+            <p>Branding and printing services play an important role in shaping a company's visual identity and communicating its values to the outside world. Creating a compelling story that appeals to the target audience is part of this extensive suite of services, which goes beyond simply designing logos.</p>
+            <!-- <a class="more_btn" href="javascript:void(0)">Read More</a> -->
           </div>
         </div>
-        <div class="col-lg-4 col-sm-6">
+        <!-- <div class="col-lg-4 col-sm-6">
           <div class="feature_item">
             <div class="f_icon">
               <img src="img/icon/f-icon-5.png" alt>
             </div>
-            <h4>Fast Support</h4>
-            <p>If you're seeking fast and efficient support for your web development services website, it's crucial to have a streamlined system in place. </p>
+            <h4>Photography</h4>
+            <p>Photography is a powerful visual medium that captures moments, communicates stories, and adds depth to the visual identity of individuals, businesses, and brands.</p>
             <a class="more_btn" href="javascript:void(0)">Read More</a>
           </div>
-        </div>
-        <div class="col-lg-4 col-sm-6">
+        </div> -->
+        <!-- <div class="col-lg-4 col-sm-6">
           <div class="feature_item">
             <div class="f_icon">
               <img src="img/icon/f-icon-6.png" alt>
@@ -81,7 +81,7 @@
             <p>Clearly define the purpose of the download test. Is it an assessment, a resource, a tool, or something else? Knowing the purpose will guide the content and format. </p>
             <a class="more_btn" href="javascript:void(0)">Read More</a>
           </div>
-        </div>
+        </div> -->
       </div>
     </div>
   </section>
@@ -142,7 +142,7 @@
           <div class="s_solution_item">
             <div class="l_title">
               <img src="img/icon/title-icon.png" alt>
-              <h6>Discover the features</h6>
+              <h6>Few words of wisdom</h6>
               <h2>Simple solutions for complicated times</h2>
             </div>
             <p>When faced with complicated or overwhelming situations, it's often beneficial to simplify your approach. Here are some simple solutions for managing complicated times:</p>
