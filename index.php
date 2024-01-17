@@ -316,7 +316,7 @@
                                         <div class="team_people_text">
                                                 <div class="l_title">
                                                         <img src="img/icon/title-icon.png" alt>
-                                                        <h6>Discover the features</h6>
+                                                        <h6>The Crew</h6>
                                                         <h2>We build a strong team of great people</h2>
                                                 </div>
                                                 <p>A web development adventure with us is an adventure with a group of remarkable people. Our success is based on the diverse skill sets, creativity, and enthusiasm that each person brings to the table.</p>
