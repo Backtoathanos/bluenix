@@ -5,7 +5,7 @@
         <div class="row footer_widget_inner">
           <div class="col-lg-4 col-sm-6">
             <aside class="f_widget f_about_widget">
-              <img src="img/footer-logo.png" alt>
+              <img src="img/bluenix-logo.png" alt width="240px">
               <p>Welcome to <b>Bluenix</b>, <i>where innovation meets excellence</i> in Web Development, Search Engine Optimization, and Social Media Management. We create websites that are not just visually striking but also functional, turning your online presence into an engaging experience. Our team of skilled developers and designers harness the power of cutting-edge technology to bring your vision to life.</p>
             </aside>
           </div>
