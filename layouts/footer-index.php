@@ -51,12 +51,11 @@
         </div>
         <div class="float-sm-right">
           <ul>
-            <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
-            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-            <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-            <li><a href="#"><i class="fa fa-behance"></i></a></li>
-            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+            <li><a target="_blank" href="https://pin.it/2PIFNfXKn"><i class="fa fa-pinterest"></i></a></li>
+            <li><a target="_blank" href="https://www.facebook.com/profile.php?id=61556072877262"><i class="fa fa-facebook"></i></a></li>
+            <li><a target="_blank" href="https://twitter.com/only_bluenix"><i class="fa fa-twitter"></i></a></li>
+            <li><a target="_blank" href="https://www.instagram.com/only_bluenix/">I</a></li>
+            <li><a target="_blank" href="#"><i class="fa fa-linkedin"></i></a></li>
           </ul>
         </div>
       </div>
