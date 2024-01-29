@@ -87,7 +87,7 @@
   <script src="vendors/circle-bar/plugins.js"></script>
   <script src="vendors/isotope/imagesloaded.pkgd.min.js"></script>
   <script src="vendors/isotope/isotope.pkgd.min.js"></script>
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCjCGmQ0Uq4exrzdcL6rvxywDDOvfAu6eE"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDOw2gVnpBPC80FN3DG6Gpik--4IZ0YUvw"></script>
   <script src="js/gmaps.min.js"></script>
 
   <script src="js/jquery.form.js"></script>
@@ -96,16 +96,6 @@
   <script src="js/circle-active.js"></script>
   <script src="js/smoothscroll.js"></script>
   <script src="js/theme.js"></script>
-
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'UA-23581568-13');
-  </script>
-  <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"82e8f473fa5431d6","version":"2023.10.0","token":"cd0b4b3a733644fc843ef0b185f98241"}' crossorigin="anonymous"></script>
 
 
   <script>
