@@ -51,7 +51,7 @@
         <img src="img/portfolio/ms-portfolio/ms-p-6.jpg" alt>
       </div>
       <div class="ms_p_item wd_25 design arc">
-        <img src="img/portfolio/ms-portfolio/ms-p-7.jpg" alt>
+        <img src="img/portfolio/ms-portfolio/design1.jpeg" alt>
       </div>
       <div class="ms_p_item wd_25 design arc">
         <img src="img/portfolio/ms-portfolio/ms-p-8.jpg" alt>
