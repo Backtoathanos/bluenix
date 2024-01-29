@@ -18,10 +18,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:type" content="Company" />
+    <meta property="og:description" content="Bluenix website development is here to make a difference. We stand out in several key ways. We prioritize a meticulous approach to every project, blending years of experience with a commitment to innovation. What truly distinguishes us is our unwavering dedication to safety protocols, ensuring not just quality results but also peace of mind for our clients. Additionally, our seamless project management and a track record of timely completions set us apart in the industry, demonstrating our reliability and consistency in delivering excellence." />
+    <meta property="og:url" content="https://www.bluenix.in" />
     <meta name="googlebot" content="index">
     <meta property="og:title" content="<?php echo $title.' || Bluenix'; ?>" />
     <meta name="keywords" content="Bluenix bluenix Jamshedpur website development company bluenix.in bluenix.com Top 10 website company in jamshedpur top website development company in jamshedpur bluenix website development company india bluenix website development company jharkhand construction in indian organizqation L&T Construction bluenix website development bluenix.in ">
-    <meta name="description" content="bluenix website development is here to make a difference. We stand out in several key ways. We prioritize a meticulous approach to every project, blending years of experience with a commitment to innovation. What truly distinguishes us is our unwavering dedication to safety protocols, ensuring not just quality results but also peace of mind for our clients. Additionally, our seamless project management and a track record of timely completions set us apart in the industry, demonstrating our reliability and consistency in delivering excellence.">
+    <meta name="description" content="Bluenix website development is here to make a difference. We stand out in several key ways. We prioritize a meticulous approach to every project, blending years of experience with a commitment to innovation. What truly distinguishes us is our unwavering dedication to safety protocols, ensuring not just quality results but also peace of mind for our clients. Additionally, our seamless project management and a track record of timely completions set us apart in the industry, demonstrating our reliability and consistency in delivering excellence.">
     
     <link rel="icon" href="img/short-icon.png" type="image/x-icon" />
     <?php echo '<title>'.$title.' || Bluenix</title>'; ?>

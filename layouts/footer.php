@@ -95,15 +95,14 @@
   <script src="js/contact.js"></script>
   <script src="js/circle-active.js"></script>
   <script src="js/smoothscroll.js"></script>
-  <script src="js/theme.js"></script>
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-8X020QFZE6"></script>
+  <script src="js/theme.js"></script><!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-0P0CEDBMXS"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
 
-    gtag('config', 'G-8X020QFZE6');
+    gtag('config', 'G-0P0CEDBMXS');
   </script>
 
   <script>
