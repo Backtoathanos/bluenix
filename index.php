@@ -216,6 +216,7 @@
                                 <img src="img/icon/title-icon.png" alt>
                                 <h6>Services We Provide</h6>
                                 <h2>Although we are young, nevertheless, we are fearless.</h2>
+                                <h1 style="display:none;">Although we are young, nevertheless, we are fearless.</h1>
                         </div>
                         <div class="row feature_inner">
                                 <div class="col-lg-4 col-sm-6">
@@ -297,7 +298,8 @@
                                         <div class="l_title">
                                                 <img src="img/icon/title-icon.png" alt>
                                                 <h6>About Us</h6>
-                                                <h2>We don't hide; we stand strong before the challenge</h2>
+                                                <h2 style="display:none;">We don't hide; we stand strong before the challenge</h2>
+                                                <h1 style="display:none;">We don't hide; we stand strong before the challenge</h1>
                                         </div>
                                         <p>Welcome to <b>Bluenix</b>, <i>where innovation meets excellence</i> in Web Development, Search Engine Optimization, and Social Media Management. We create websites that are not just visually striking but also functional, turning your online presence into an engaging experience. Our team of skilled developers and designers harness the power of cutting-edge technology to bring your vision to life.</p>
                                 </div>

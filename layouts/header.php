@@ -4,7 +4,7 @@
         if($title=="home"){
             $title="Home";
         }else if($title=="aboutus"){
-            $title="About us";
+            $title="About Us";
         }else if($title=="services"){
             $title="Services";
         }else if($title=="portfolio"){

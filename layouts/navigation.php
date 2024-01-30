@@ -8,7 +8,7 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav">
-            <li class="nav-item home"><a class="nav-link" href="index.php?page=home">Home</a></li>
+            <li class="nav-item home"><a class="nav-link" href="index.php">Home</a></li>
             <li class="nav-item aboutus"><a class="nav-link" href="about-us.php?page=aboutus">About Us</a></li>
             <li class="nav-item services"><a class="nav-link" href="service.php?page=services">Services</a></li>
             <li class="nav-item portfolio"><a class="nav-link" href="portfolio.php?page=portfolio">Portfolio</a></li>
