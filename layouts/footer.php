@@ -116,9 +116,7 @@
 
           if(result.page==undefined){
               const pathname = window.location.pathname;
-              if(pathname=="/bluenix/index.php" || pathname=="/index.php"){
-                  window.location.href="index.php?page=home";
-              }else if(pathname=="/bluenix/about-us.php" || pathname=="/about-us.php"){
+              if(pathname=="/bluenix/about-us.php" || pathname=="/about-us.php"){
                   window.location.href="about-us.php?page=aboutus";
               }else if(pathname=="/bluenix/service.php" || pathname=="/service.php"){
                   window.location.href="service.php?page=service";
