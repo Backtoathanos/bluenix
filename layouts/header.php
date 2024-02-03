@@ -23,7 +23,9 @@
     <meta property="og:url" content="https://www.bluenix.in" />
     <meta name="googlebot" content="index">
     <meta property="og:title" content="<?php echo $title.' || Bluenix'; ?>" />
-    <meta name="keywords" content="Bluenix bluenix Jamshedpur website development company bluenix.in bluenix.com Top 10 website company in jamshedpur top website development company in jamshedpur bluenix website development company india bluenix website development company jharkhand construction in indian organizqation L&T Construction bluenix website development bluenix.in ">
+    <meta name="keywords" content="Bluenix bluenix Jamshedpur website development company bluenix.in bluenix.com Top 10 website company in jamshedpur top website development company in jamshedpur bluenix website development company india bluenix website development company jharkhand construction in indian organizqation L&T Construction bluenix website development bluenix.in 
+    bluenix, blue nix, bluenix, Website Design Company in Jamshedpur, Web Design in Jamshedpur, Web Development Company in Jamshedpur, Logo Design in Jamshedpur, Website Design Company in India, Web Design in India, Logo Design in India, Android App Development in Jamshedpur, iOS App Develoment in Jamshedpur, Android App Development in India, iOS App Develoment in India
+    ">
     <meta name="description" content="Bluenix website development is here to make a difference. We stand out in several key ways. We prioritize a meticulous approach to every project, blending years of experience with a commitment to innovation. What truly distinguishes us is our unwavering dedication to safety protocols, ensuring not just quality results but also peace of mind for our clients. Additionally, our seamless project management and a track record of timely completions set us apart in the industry, demonstrating our reliability and consistency in delivering excellence.">
     
     <link rel="icon" href="img/short-icon.png" type="image/x-icon" />
