@@ -6,7 +6,6 @@
     <lastmod>2023-12-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-    <title>Welcome to Bluenix</title>
   </url>
 
   <!-- About Us Page -->
@@ -15,7 +14,6 @@
     <lastmod>2023-12-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
-    <title>About Us</title>
   </url>
 
   <!-- Contact Us Page -->
@@ -24,7 +22,6 @@
     <lastmod>2023-12-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
-    <title>Contact Us</title>
   </url>
 
   <!-- Services Page -->
@@ -33,7 +30,6 @@
     <lastmod>2023-12-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
-    <title>Services</title>
   </url>
 
   <!-- Blog Page -->
@@ -42,6 +38,5 @@
     <lastmod>2023-12-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
-    <title>Blog</title>
   </url>
 </urlset>
