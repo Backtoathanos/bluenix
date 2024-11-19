@@ -2,17 +2,17 @@
     <?php 
         $title=isset($_GET['page']) ? $_GET['page'] : "Home";
         if($title=="home"){
-            $title="Home";
+            $title="Web Designing Company in Jamshedpur | Web Development Company in Jamshedpur | Android App Development in Jamshedpur | iOS App Development in Jamshedpur | Digital Marketing in Jamshedpur";
         }else if($title=="aboutus"){
-            $title="About Us";
+            $title="About Us | Bluenix";
         }else if($title=="services"){
-            $title="Services";
+            $title="Services | Bluenix";
         }else if($title=="portfolio"){
-            $title="Portfolio";
+            $title="Portfolio | Bluenix";
         }else if($title=="blog"){
-            $title="Blog";
+            $title="Blog | Bluenix";
         }else if($title=="contact"){
-            $title="Contact";
+            $title="Contact | Bluenix";
         }
     ?>
     <meta charset="utf-8">
@@ -22,7 +22,7 @@
     <meta property="og:description" content="Bluenix website development is here to make a difference. We stand out in several key ways. We prioritize a meticulous approach to every project, blending years of experience with a commitment to innovation. What truly distinguishes us is our unwavering dedication to safety protocols, ensuring not just quality results but also peace of mind for our clients. Additionally, our seamless project management and a track record of timely completions set us apart in the industry, demonstrating our reliability and consistency in delivering excellence." />
     <meta property="og:url" content="https://www.bluenix.in" />
     <meta name="googlebot" content="index">
-    <meta property="og:title" content="<?php echo $title.' || Bluenix'; ?>" />
+    <meta property="og:title" content="<?php echo $title; ?>" />
     <meta name="keywords" content="Bluenix bluenix Jamshedpur website development company bluenix.in bluenix.com Top 10 website company in jamshedpur top website development company in jamshedpur bluenix website development company india bluenix website development company jharkhand construction in indian organizqation L&T Construction bluenix website development bluenix.in 
     bluenix, blue nix, bluenix, Website Design Company in Jamshedpur, Web Design in Jamshedpur, Web Development Company in Jamshedpur, Logo Design in Jamshedpur, Website Design Company in India, Web Design in India, Logo Design in India, Android App Development in Jamshedpur, iOS App Develoment in Jamshedpur, Android App Development in India, iOS App Develoment in India
     ">
